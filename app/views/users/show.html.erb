@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <center>
+        <h1><b>Foodster</b></h1>
+        <h2>Welcome <%= "#{@user.name}" %>!</h2>
+</head>
+<h3><%= "#{@user.name}"%>'s Reviews</h3>
+ 
+    <li><%= link_to "#{@user.reviews.name}",review_path%></li> 
+
+</center>
+</html>
