@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+ body {
+     background-image: url("https://media.istockphoto.com/vectors/rice-grains-white-rice-on-the-grey-background-vector-id1146822737?b=1&k=6&m=1146822737&s=612x612&w=0&h=nEAqlDNrN2tNLj6IKskXdij0njZfA1lh-n3-UKkvZNA=")
+ }
